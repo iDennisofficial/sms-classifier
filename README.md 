@@ -1,0 +1,13 @@
+# 📩 SMS Scam vs Trust Classifier
+
+A simple, interactive machine learning app built with **Streamlit** to classify SMS messages as either **scam** or **trust** using **Logistic Regression**.
+
+## 🚀 Features
+
+- Upload a dataset and visualize it.
+- Train and evaluate a machine learning model.
+- Classify messages manually or in bulk using CSV/Excel.
+- View model performance and word clouds.
+
+## 📂 File Structure
+
